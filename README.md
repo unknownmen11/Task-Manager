@@ -1,7 +1,5 @@
 # Task Manager
-
 Productivity app for managing tasks and projects.
-
 ## Features
 - Kanban boards
 - Due dates
