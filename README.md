@@ -7,7 +7,7 @@ Productivity app for managing tasks and projects.
 - Team collaboration
 - Time tracking
 ## Tech Stack
-- Vue.js
+- .js
 - Firebase
 - Vuex
 ## Licens
