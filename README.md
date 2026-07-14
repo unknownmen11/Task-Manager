@@ -5,8 +5,7 @@ Productivity app for managing tasks and projects.
 - Due dates
 - Labels & tags
 - Team collaboration
--  
-## Tech Stack
+- ## Tech Stack
 - .js
 - Firebase
 - Vuex
