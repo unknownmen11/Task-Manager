@@ -7,6 +7,5 @@ Productivity app for managing tasks and projects.
 - Team collaboration
 - ## Tech Stack
 - Firebase
-- 
 - Vuex
 ## Licens
